@@ -34,7 +34,31 @@ th {
    </td>
    <td>8/24, 8/26
    </td>
-   <td>Hearing and listening
+   <td>
+   
+   **Tuesday 8/24**
+
+   * Me - [Dr. Carson](https://tatecarson.com)
+   * Class introductions 
+      * Name? 
+      * Class year? 
+      * Where are you from? 
+      * What is your interest in sound design? 
+      * What do you want to learn more of? 
+      * What is your favorite sound?
+   * [Syllabus](pages/syllabus.md)
+   * [Perusall](https://perusall.com/) signup
+        * I will assign readings, videos, or podcasts through Perusall. You will highlight interesting or confusing parts of the material and ask questions. These assignments will be part of your participation grade.  
+        * Course code - **CARSON-AXUC4**
+        * Do the syllabus highlighting by next class.   
+   * Browse through textbook.
+   * [Studying Sound Website](https://studyingsound.org/)
+
+
+
+   **Thursday 8/26**
+
+   Hearing and listening
 <p>
 In class exercise: Sound Walk
    </td>
@@ -44,7 +68,7 @@ In class exercise: Sound Walk
    </td>
    <td>8/31, 9/2
    </td>
-   <td>Sound 
+   <td>All about Sound - The basics of acoustics and psychoacoustics as they specifically relate to sound design 
    </td>
   </tr>
   <tr>
@@ -52,7 +76,7 @@ In class exercise: Sound Walk
    </td>
    <td>9/7, 9/9
    </td>
-   <td>Creative Field recording – contact mic, coil mic, hydrophone? 
+   <td>Creative Field recording – contact mic, coil mic, hydrophone? The basics of recording from practical and theoretical/creative perspectives, including exploring microphone technique
    </td>
   </tr>
   <tr>
@@ -60,7 +84,7 @@ In class exercise: Sound Walk
    </td>
    <td>9/14, 9/16
    </td>
-   <td>Sounds in space
+   <td>Sounds in space - The basics of propagation/reverb and the digital effects used to mimic space and time-related effects. 
    </td>
   </tr>
   <tr>
@@ -78,7 +102,7 @@ Effects – Tremolo, Vibrato, EQ, Filters, Modulation, Distortion
    </td>
    <td>9/28, 9/30
    </td>
-   <td>Mixing 
+   <td>Mixing - Some of the practical and theoretical approaches to mixing from a creative standpoint, as they relate to mono/stereo files.
    </td>
   </tr>
   <tr>
@@ -86,9 +110,10 @@ Effects – Tremolo, Vibrato, EQ, Filters, Modulation, Distortion
    </td>
    <td>10/5, 10/7
    </td>
-   <td>Project 2 disquiet junto: sing song part 1 – stereo mix due 10/4
+   <td>Project 2 <a href="https://disquiet.com/2021/08/19/disquiet-junto-project-0503-sing-song/">disquiet junto: sing song</a> part 1 – stereo mix due 10/4
+
 <p>
-Spatial sound – binaural, surround
+Spatial sound – binaural, surround - A Basic overview of surround and spatial sound formats from practical and theoretical perspectives 
    </td>
   </tr>
   <tr>
@@ -122,7 +147,7 @@ Sound and meaning
    </td>
    <td>11/2, 11/4
    </td>
-   <td>Project 3 - Visual sound due 11/1, compose music for an short film in collaboration with Professor Lightner’s animated shorts class.
+   <td>Project 3 - compose music for a podcast. I'll provide an interview to compose to. 
    </td>
   </tr>
   <tr>
@@ -130,7 +155,7 @@ Sound and meaning
    </td>
    <td>11/9, 11/11
    </td>
-   <td>11/8 Final Project proposal due, music for something – podcast, short film, game etc.
+   <td>11/8 Final Project - work with Prof. Konrad's 3d-Design - Pre-production students to compose music for their animated shorts. 
 <p>
 No class on 11/11 for Veterans Day
    </td>
