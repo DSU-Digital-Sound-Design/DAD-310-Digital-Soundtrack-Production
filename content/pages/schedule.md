@@ -78,7 +78,7 @@ In class exercise: Sound Walk
 
    In class assignment: Make a 2-3 minute composition based on your notes from the sound walk or silent sit inside. You can use whatever software you are familiar with. Approaches can range from the literal to the metaphorical; just be creative. What does it mean to compose a work with a moving listener perspective; or a fixed perspective? How do you portray motion with sound?
    
-   All sounds and styles are welcome. Post your journal entry along with the composition to the discussion board on D2L. We will listen to our results in class on Thursday. 
+   All sounds (sampled or synthesized) and styles are welcome. Post your journal entry along with the composition to the discussion board on D2L. We will listen to our results in class on Thursday. 
 
    [Example composition](https://www.tatecarson.com/blog/2016-07-15-shifting-migration-pt-2-2016) - Shifting Migration Pt 2 (2016)
 
