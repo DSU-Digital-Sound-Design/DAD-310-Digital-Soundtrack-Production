@@ -80,7 +80,7 @@ In class exercise: Sound Walk
    
    All sounds (sampled or synthesized) and styles are welcome. Post your journal entry along with the composition to the discussion board on D2L. We will listen to our results in class on Thursday. 
 
-   [Example composition](https://www.tatecarson.com/blog/2016-07-15-shifting-migration-pt-2-2016) - Shifting Migration Pt 2 (2016)
+   [Example composition](https://www.tatecarson.com/blog/2016-07-15-shifting-migration) - Shifting Migration (2016)
 
    **Thursday 9/2**
 
