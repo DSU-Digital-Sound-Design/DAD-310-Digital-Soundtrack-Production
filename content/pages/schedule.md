@@ -84,8 +84,24 @@ In class exercise: Sound Walk
 
    **Thursday 9/2**
 
-   acoustics and psychoacoustics 
+   Listen to assignments and discuss methods and concepts
 
+   In Class Assignment: Remix a classmates assignment. 
+   
+   * See Ethan Hein's [blog post](http://www.ethanhein.com/wp/2020/an-intro-to-remixes/) for inspiration. 
+   * Other great remixes
+      * MIA - [Paper Planes](https://youtu.be/F3CIbk3At_8) / [DFA remix](https://youtu.be/xgzf8N8w9ac)
+      * Tons of [Bjork remixes](https://www.youtube.com/playlist?list=PLB3BC0AB6DE273511)
+      * [Rework_ Philip Glass Remixed](https://www.youtube.com/playlist?list=PLX0VXLwcgQsSlLFYDwy8tCAe_194r4IvH) 
+         * [Music in 12 Parts](https://www.youtube.com/watch?v=1rMuwBA8xMw) - [My Great Ghost's Remix](https://www.youtube.com/watch?v=GmhWTW3rLK4&list=PLX0VXLwcgQsSlLFYDwy8tCAe_194r4IvH)
+         * [Einstein of the Beach - Knee Play 1](https://www.youtube.com/watch?v=jeEobpQMgD4) - [Nosaj Thing Remix](https://www.youtube.com/watch?v=kCKTb-k0-Bg&list=PLX0VXLwcgQsSlLFYDwy8tCAe_194r4IvH&index=3) 
+
+
+   First upload the stems of your track and add them to your thread on the forum. If you need help with this step, we can go over it. Use a different program than you used to create your track. When starting your remix, download the stems from one of your classmates and load them into your DAW.
+   
+   If you used Soundtrap, try Ableton or Logic. Explore the differences between the DAWs. You may add sounds or instruments to the remix but you must keep elements of the original. 
+
+   When you're done, post your remix as a response on the thread to the classmate you remixed. 
    </td>
   </tr>
   <tr>
@@ -94,6 +110,9 @@ In class exercise: Sound Walk
    <td>9/7, 9/9
    </td>
    <td>Creative Field recording – contact mic, coil mic, hydrophone? The basics of recording from practical and theoretical/creative perspectives, including exploring microphone technique
+
+   **Introduce Sound collage assignment**
+   [Transformation formula](https://soundcloud.com/disquiet/sets/disquiet-junto-project-0504)
    </td>
   </tr>
   <tr>
