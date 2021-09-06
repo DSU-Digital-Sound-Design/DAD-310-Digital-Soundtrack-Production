@@ -133,6 +133,7 @@ In class exercise: Sound Walk
 
    Now we will actually experiment with recording in the field and finding creative ways of using those recordings in soundtracks.
 
+<!-- change -->
    **Introduce Sound collage assignment**
    [Transformation formula](https://soundcloud.com/disquiet/sets/disquiet-junto-project-0504)
 
