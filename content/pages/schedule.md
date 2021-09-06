@@ -122,7 +122,7 @@ In class exercise: Sound Walk
       Show some examples from the acoustic ecology handbook 
     -->
 
-   Creative Field recording – contact mic, coil mic, hydrophone? The basics of recording from practical and theoretical/creative perspectives, including exploring microphone technique
+   ## Creative Field recording 
 
    **Tuesday 9/7**
 
@@ -133,21 +133,20 @@ In class exercise: Sound Walk
 
    Now we will actually experiment with recording in the field and finding creative ways of using those recordings in soundtracks.
 
-<!-- change -->
-   **Introduce Sound collage assignment**
-   [Transformation formula](https://soundcloud.com/disquiet/sets/disquiet-junto-project-0504)
-
    HOMEWORK: 
-   * do a reading on the field recording process.
-   * record 10 sounds, either on a zoom or your phone
-   * These recordings will be used for the sound collage assignment.
-   
+   * **Read:** Barry Truax - Sound, Listening and Place The aesthetic dilemma on Perusall and give three comments or questions
+   * [Field Recording Project](pages/projects)
+      * These recordings will be used for the sound collage assignment.   
 
    **Thursday 9/9**
 
    * Listen to a few remixes 
+   * More field recording examples
    * Intro to Ableton Live 
    * Work on the collage assignment 
+
+   **Introduce Sound collage assignment**
+   [Transformation formula](https://soundcloud.com/disquiet/sets/disquiet-junto-project-0504)
 
    </td>
   </tr>
