@@ -10,5 +10,3 @@ This course is designed to explore multiple applications of sound design and the
 - [schedule](pages/schedule)
 - [projects](pages/projects)
 - [resources](pages/resources)
-
-edit edit
