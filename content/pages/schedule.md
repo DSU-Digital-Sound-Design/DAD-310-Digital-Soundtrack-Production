@@ -127,23 +127,21 @@ In class exercise: Sound Walk
    **Tuesday 9/7**
 
    * Remixes due on Wednesday at 11:59pm, we will listen to a few in class on Thursday
+   * In class we listened to some of the remixes from the previous week.
+    
+
+   **Thursday 9/9**
+
    * [Listen](https://www.npr.org/2021/08/31/1028444324/latest-candyman-movie-is-scored-by-robert-aiki-aubrey-lowe) to how composer Robert Aiki Aubrey Lowe  uses field recordings in his score for the new remake of Candyman. 
    * Excerpt from score 
       * <iframe width="200" height="50" src="https://www.youtube.com/embed/RawqEYDxAeg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-   Now we will actually experiment with recording in the field and finding creative ways of using those recordings in soundtracks.
+   * Listen to a few remixes of student work 
+   * More field recording examples 
 
    HOMEWORK: 
    * **Read:** Barry Truax - Sound, Listening and Place The aesthetic dilemma on Perusall and give three comments or questions
    * [Field Recording Project](pages/projects)
-      * These recordings will be used for the sound collage assignment.   
-
-   **Thursday 9/9**
-
-   * Listen to a few remixes 
-   * More field recording examples
-   * Intro to Ableton Live 
-   * Work on the collage assignment 
+      * These recordings will be used for the sound collage assignment.  
 
    **Introduce Sound collage assignment**
    [Transformation formula](https://soundcloud.com/disquiet/sets/disquiet-junto-project-0504)
