@@ -161,7 +161,7 @@ In class exercise: Sound Walk
 
    **Tuesday 9/14**
 
-   * [Review Traux reading](pages/lectures/week-4/truax-review)
+   * [Review Traux reading](pages/lectures/week-4/truax-review.md)
    * Introduction to reverb and other time based effects - techniques that we can use to create a sense of place and time in our compositions.  
       * Check out each reverb type in Ableton. Try different presents and listen to how they each effect the sound differently.
       * If you have Ableton 11 try the Hybrid Reverb. 
