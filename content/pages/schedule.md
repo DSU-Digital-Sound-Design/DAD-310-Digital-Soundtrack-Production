@@ -167,13 +167,14 @@ In class exercise: Sound Walk
       * If you have Ableton 11 try the Hybrid Reverb. 
    * Work on Transformation formula 
 
-   Homework: 
+   <!-- Homework: 
 
-   Read - Collins Chapter 4 Sounds in Space up to 4.3 - located in Perusall. 
+   Read - Collins Chapter 4 Sounds in Space up to 4.3 - located in Perusall.  -->
 
    **Thursday 9/16**
 
-   * Discuss Collins reading
+   * Reverb Auxillary send - putting sounds into the same space. 
+   * LFO control of reverb
    * Work on Transformation formula 
 
    </td>
@@ -185,7 +186,14 @@ In class exercise: Sound Walk
    </td>
    <td>Project 1 Transformation formula Due 9/21 before class.
 <p>
-Effects – Tremolo, Vibrato, EQ, Filters, Modulation, Distortion 
+   
+   **Tuesday 9/21**
+   Listen to first half recordings of the Transformation formula.
+
+
+   **Thursday 9/23**
+   No class: DSU Discover Days
+
    </td>
   </tr>
   <tr>
@@ -193,7 +201,35 @@ Effects – Tremolo, Vibrato, EQ, Filters, Modulation, Distortion
    </td>
    <td>9/28, 9/30
    </td>
-   <td>Mixing - Some of the practical and theoretical approaches to mixing from a creative standpoint, as they relate to mono/stereo files.
+   <td>
+   
+   **Tuesday 9/28**
+   
+   * Listen to second half of recordings of the Transformation formula.
+   * Modulation Effects  
+      * Tremolo - modulations of amplitude, done with Frequency Shifter 
+         * Ring mode, frequency below 20 Hz 
+      * Vibrato - modulations of pitch, done with Frequency Shifter
+         * <iframe width="560" height="315" src="https://www.youtube.com/embed/0jXXWBt5URw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+         * LFO amount - 10 Hz, rate - 3 - 6 Hz
+      * The Auto Pan creates a similar vibrato effect
+   * Distortion 
+      * Saturator - waveshaping effect good for adding character to a sound 
+      * Dynamic Tube - Tube saturation 
+      * Guitar 
+         * Pedal - guitar distortion  
+         * Amp - amp emulator 
+         * Cabinet  - guitar cabinet emulator 
+      * Erosion 
+      * Redux
+      * Vinyl Distortion
+
+   **Thursday 9/30**
+
+   Mixing - Some of the practical and theoretical approaches to mixing from a creative standpoint, as they relate to mono/stereo files.
+
+   * EQ, panning,  
+
    </td>
   </tr>
   <tr>
@@ -201,7 +237,9 @@ Effects – Tremolo, Vibrato, EQ, Filters, Modulation, Distortion
    </td>
    <td>10/5, 10/7
    </td>
-   <td>Project 2 <a href="https://disquiet.com/2021/08/19/disquiet-junto-project-0503-sing-song/">disquiet junto: sing song</a> part 1 – stereo mix due 10/4
+   <td>
+   
+   Project 2 <a href="https://disquiet.com/2021/08/19/disquiet-junto-project-0503-sing-song/">disquiet junto: sing song</a> part 1 – stereo mix due 10/4
 
 <p>
 Spatial sound – binaural, surround - A Basic overview of surround and spatial sound formats from practical and theoretical perspectives 
