@@ -240,15 +240,19 @@ In class exercise: Sound Walk
 
    **Tuesday 10/5**
 
+   Class canceled 
+
+   **Thursday 10/7**
+
    Mixing - Some of the practical and theoretical approaches to mixing from a creative standpoint, as they relate to mono/stereo files.
 
-   * Mixing Theory: [Three dimensional sound](pages/lectures/week-7/three-dimensional-sound.md)
+   <!-- * Mixing Theory: [Three dimensional sound](pages/lectures/week-7/three-dimensional-sound.md) -->
    * Go through the [live demo](pages/lectures/week-7/live-demo-mix.md) song and analyze the mixing.
-   * Project 2 <a href="https://disquiet.com/2021/08/19/disquiet-junto-project-0503-sing-song/">disquiet junto: sing song</a> part 1 – stereo mix due 10/4
    * Show [Fountain by Lyra Pramuk](https://lyrapramuk.bandcamp.com/album/fountain) - an album made entirely of Pramuk's voice. 
+  
+  Project 2 <a href="https://disquiet.com/2021/08/19/disquiet-junto-project-0503-sing-song/">disquiet junto: sing song</a> part 1 – stereo mix due 10/14
 
 
-   Spatial sound – binaural, surround - A Basic overview of surround and spatial sound formats from practical and theoretical perspectives 
    </td>
   </tr>
   <tr>
@@ -256,7 +260,10 @@ In class exercise: Sound Walk
    </td>
    <td>10/12, 10/14
    </td>
-   <td>Project 2 part 2 – binaural mix due 10/12
+   <td>
+   Spatial sound – binaural, surround - A Basic overview of surround and spatial sound formats from practical and theoretical perspectives 
+
+   <!-- Project 2 part 2 – binaural mix due 10/12 -->
 <p>
 Sound and meaning
    </td>
