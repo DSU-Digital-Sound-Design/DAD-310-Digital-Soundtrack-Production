@@ -248,8 +248,7 @@ In class exercise: Sound Walk
 
    <!-- * Mixing Theory: [Three dimensional sound](pages/lectures/week-7/three-dimensional-sound.md) -->
    * Go through the [live demo](pages/lectures/week-7/live-demo-mix.md) song and analyze the mixing.
-   * Show [Fountain by Lyra Pramuk](https://lyrapramuk.bandcamp.com/album/fountain) - an album made entirely of Pramuk's voice. 
-  
+
   Project 2 <a href="https://disquiet.com/2021/08/19/disquiet-junto-project-0503-sing-song/">disquiet junto: sing song</a> part 1 – stereo mix due 10/14
 
 
@@ -261,6 +260,21 @@ In class exercise: Sound Walk
    <td>10/12, 10/14
    </td>
    <td>
+
+   **Tuesday 10/12**
+
+   * Work on Sing Song project 
+   * Show [Fountain by Lyra Pramuk](https://lyrapramuk.bandcamp.com/album/fountain) - an album made entirely of Pramuk's voice. 
+   * Sampling techniques in Ableton 
+      * Sampler
+         * Multisampling - using multiple samples recorded at different octaves instead of pitch shifting each sample digitally 
+      * Simpler
+         * plays one sample at a time  
+         * classic, one shot and slice playback modes 
+      * Wavetable  
+      * Granulator 2
+  
+
    Spatial sound – binaural, surround - A Basic overview of surround and spatial sound formats from practical and theoretical perspectives 
 
    <!-- Project 2 part 2 – binaural mix due 10/12 -->
