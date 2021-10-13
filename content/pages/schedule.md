@@ -273,13 +273,11 @@ In class exercise: Sound Walk
          * classic, one shot and slice playback modes 
       * Wavetable  
       * Granulator 2
+
+   **Thursday 10/14**
+
+   * Listen to projects 
   
-
-   Spatial sound – binaural, surround - A Basic overview of surround and spatial sound formats from practical and theoretical perspectives 
-
-   <!-- Project 2 part 2 – binaural mix due 10/12 -->
-<p>
-Sound and meaning
    </td>
   </tr>
   <tr>
@@ -287,7 +285,11 @@ Sound and meaning
    </td>
    <td>10/19, 10/21
    </td>
-   <td>Sound for story 
+   <td>
+   Spatial sound – binaural, surround - A Basic overview of surround and spatial sound formats from practical and theoretical perspectives 
+
+   Sound and meaning
+
    </td>
   </tr>
   <tr>
@@ -296,6 +298,9 @@ Sound and meaning
    <td>10/26, 10/28
    </td>
    <td>
+
+   Sound for story 
+   
    </td>
   </tr>
   <tr>
