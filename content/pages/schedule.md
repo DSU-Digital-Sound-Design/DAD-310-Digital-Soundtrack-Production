@@ -294,12 +294,13 @@ In class exercise: Sound Walk
    * Please submit consolidated versions of your project files for the sing song project. 
    * Finish listening to the other projects 
    * [Sound and meaning](pages/lectures/week-9/)
+   * Look at Ableton synthesizers
 
    HOMEWORK: Listen to the [Twenty Thousand Hertz](https://www.20k.org/episodes/soundmarks) episode on soundmarks as inspiration for the project.
 
    Sonic logo/device sounds Project Due Tuesday 10/26: This project has two options, one where you create sounds for a device or software and anther where you create a sonic logo for a company. Use the ideas we talked about in class about conditioning and sonic archetypes. Take some inspiration from [Defacto Sound](https://www.defactosound.com/), the company that produces Twenty Thousand Hertz.  
 
-   Device sounds: Pick a device that you own and recompose the sounds for it. You could choose one function like texting. Notice all the different sounds that are used to help the user understand the interface. Create sounds for at least five different actions. Make three versions of each action. IN the end you will have 15 distinct sounds. 
+   Device sounds: Pick a device that you own and recompose the sounds for it. You could choose one function like texting. Notice all the different sounds that are used to help the user understand the interface. Create sounds for at least five different actions. Make three versions of each action. In the end you will have 15 distinct sounds. 
 
    Sonic logo: Pick three companies and compose a sonic logo that represent each of them. For each company compose five versions of the sonic logo. 
 
@@ -308,7 +309,11 @@ In class exercise: Sound Walk
    **Thursday 10/21**
 
    * Discuss the Twenty Thousand Hertz podcast
-   * More about Sonic Archetypes and semiotic theory 
+   * Guardian Podcasts Sonic Logo 
+   * Radiolab podcast has some more really interesting sounds
+   * More synths in Ableton  
+      * Operator 
+      * Wavetable  
    * work on soundmarks/device sounds 
 
    </td>
