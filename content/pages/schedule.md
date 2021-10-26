@@ -325,9 +325,38 @@ In class exercise: Sound Walk
    </td>
    <td>
 
-   Sound for story 
+   ## Sound for story 
+
+   **Tuesday 10/26**
+
+   * Listen to some sonic logos 
+   * Examples of music and sound design from podcasts
+      * [Radiolab](https://www.wnycstudios.org/podcasts/radiolab/articles/playing-god)
+         * Music and sound effects are very present and drive the story forward.  
+      * [Love + Radio](http://loveandradio.org/2015/08/bride-of-the-sea/)
+      * [This American Life](https://www.thisamericanlife.org/751/audience-of-one)
+         * [Transom - Composing Music For Stories On This American Life](https://transom.org/2016/composing-music-stories-american-life/)
+            * posts - emphasize certain parts of the story 
+            * neutral propulsion - motion not emotion     
+      * [The Daily](https://www.nytimes.com/2021/10/26/podcasts/the-daily/social-safety-net-democrats.html)  
+      * [Sound Matters](https://podcasts.apple.com/us/podcast/sound-matters/id1073135021)
+
+   HOMEWORK - Listen to the transom podcast episode [Scoring Stories: Part 1](https://transom.org/2019/scoring-stories-part-1/)
+
+   Podcast project - compose music for a podcast. Use any of the styles of sound design you have learned in class. Pick an interview or story that does not have music or sound effects and add music and sound effects to it. You can pick any audio you want as long as your resulting podcast is at least **5 minutes long**. You may also take a portion of a longer interview if it makes sense as a podcast. If you need to you can record your voice to move the story along. 
    
-   Project 3 - compose music for a podcast. I'll provide an interview to compose to. 
+   **Some examples of places to look for interviews or stories are:**
+
+  * [The Moth Stories](https://themoth.org/stories) -  get the download link from this [feed](http://feeds.themoth.org/themothpodcast)
+  * [Story Corps](https://storycorps.org/podcasts) - [feed](https://feeds.npr.org/510200/podcast.xml)
+  * [The Ezra Klein Show](https://www.nytimes.com/column/ezra-klein-podcast) - [feed](https://feeds.simplecast.com/82FI35Px)
+
+   **Requirements**
+
+  * At least 5 minutes long
+  * An opening song or audio logo 
+  * 3 "posts" that emphasize certain important points in the story and bring the listener from one "scene" to the next. 
+  * A closing song or audio logo
 
    </td>
   </tr>
