@@ -341,6 +341,11 @@ In class exercise: Sound Walk
       * [The Daily](https://www.nytimes.com/2021/10/26/podcasts/the-daily/social-safety-net-democrats.html)  
       * [Sound Matters](https://podcasts.apple.com/us/podcast/sound-matters/id1073135021)
 
+   **Thursday 10/28**
+
+   * A look at the FM synthesis with the Ableton Operator device 
+   * Generative techniques with MIDI Effects 
+
    HOMEWORK - Listen to the transom podcast episode [Scoring Stories: Part 1](https://transom.org/2019/scoring-stories-part-1/)
 
    Podcast project - compose music for a podcast. Use any of the styles of sound design you have learned in class. Pick an interview or story that does not have music or sound effects and add music and sound effects to it. You can pick any audio you want as long as your resulting podcast is at least **5 minutes long**. You may also take a portion of a longer interview if it makes sense as a podcast. If you need to you can record your voice to move the story along. 
@@ -366,7 +371,12 @@ In class exercise: Sound Walk
    <td>11/2, 11/4
    </td>
    <td>
+
+   ## Physical modeling synthesis 
    
+   * Ableton 
+      * Collision, Electric, Tension  
+
    Keep working on podcast 
 
    </td>
