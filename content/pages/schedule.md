@@ -344,6 +344,7 @@ In class exercise: Sound Walk
    **Thursday 10/28**
 
    * A look at the FM synthesis with the Ableton Operator device 
+   * DX7 history video 
    * Generative techniques with MIDI Effects 
 
    HOMEWORK - Listen to the transom podcast episode [Scoring Stories: Part 1](https://transom.org/2019/scoring-stories-part-1/)
@@ -386,7 +387,16 @@ In class exercise: Sound Walk
    </td>
    <td>11/9, 11/11
    </td>
-   <td>11/8 Final Project - work with Prof. Konrad's 3d-Design - Pre-production students to compose music for their animated shorts. 
+   <td>
+   
+   ## Composing to picture 
+
+   * [Examples from film](pages/lectures/week-12/film.md)
+   * My short film - [Si](https://www.tatecarson.com/blog/2015-07-15-si)
+   
+
+   Stock video composing project 
+
 <p>
 No class on 11/11 for Veterans Day
    </td>
@@ -397,6 +407,9 @@ No class on 11/11 for Veterans Day
    <td>11/16
    </td>
    <td>
+
+   11/8 Final Project - work with Prof. Konrad's 3d-Design - Pre-production students to compose music for their animated shorts. 
+
    </td>
   </tr>
   <tr>
@@ -404,7 +417,11 @@ No class on 11/11 for Veterans Day
    </td>
    <td>11/23, 11/26
    </td>
-   <td>No class 11/26 for Thanksgiving holiday
+   <td>
+   
+   Pick a short to compose to. 
+   
+   No class 11/26 for Thanksgiving holiday
    </td>
   </tr>
   <tr>
