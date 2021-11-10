@@ -391,37 +391,63 @@ In class exercise: Sound Walk
    
    ## Composing to picture 
 
+   **Tuesday 11/9**
+
    * [Examples from film](pages/lectures/week-12/film.md)
    * My short film - [Si](https://www.tatecarson.com/blog/2015-07-15-si)
-   
+   * Start working on stock video composing project
 
-   Stock video composing project 
+   **Thursday 11/11**
 
-<p>
-No class on 11/11 for Veterans Day
+   No class for Veterans Day
+
    </td>
   </tr>
   <tr>
    <td>13
    </td>
-   <td>11/16
+   <td>11/16, 11/18
    </td>
    <td>
 
-   11/8 Final Project - work with Prof. Konrad's 3d-Design - Pre-production students to compose music for their animated shorts. 
+   **Tuesday 11/16**
+
+   * Watch some of the stock footage compositions 
+   * Introduce [Final Project](pages/projects#final)
+      * work with Prof. Konrad's 3d-Design - Pre-production students to compose music for their animated shorts. 
+      * Watch the animations and choose one to work on. 
+   * Ethan Hein on [scales and emotions](http://www.ethanhein.com/wp/2010/scales-and-emotions/)
+
+   **Thursday 11/18**
+
+   * Introduction to sound effects 
+   * Review of the studio and the studio equipment
+   * Using the Zoom portable recorders for field recording sound effects 
+   * Begin work on Final Project
+      * Spot the scenes  
 
    </td>
   </tr>
   <tr>
    <td>14
    </td>
-   <td>11/23, 11/26
+   <td>11/23
    </td>
    <td>
    
-   Pick a short to compose to. 
+   **Tuesday 11/23**
+
+   * More on sound effects 
+   * Changing the tempo for different musical cues 
+   * In class work on Final Project
+   * Show significant progress on Final Project, at least one scene should be done by now 
+   
+
+   **Thursday 11/25**
    
    No class 11/26 for Thanksgiving holiday
+
+
    </td>
   </tr>
   <tr>
@@ -430,6 +456,9 @@ No class on 11/11 for Veterans Day
    <td>11/30, 12/2
    </td>
    <td>
+
+   Continue working in class on final project
+
    </td>
   </tr>
   <tr>
@@ -437,7 +466,16 @@ No class on 11/11 for Veterans Day
    </td>
    <td>12/7
    </td>
-   <td>Final Project due 
+   <td>
+   
+   **Tuesday 12/7**
+
+   * Last chance for any help with project 
+
+   **Thursday 12/9**
+
+   * Present Final Project during exam time 1:00pm - 3:00pm
+
    </td>
   </tr>
 </table>
