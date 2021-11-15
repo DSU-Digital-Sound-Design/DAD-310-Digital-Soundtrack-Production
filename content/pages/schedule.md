@@ -413,7 +413,7 @@ In class exercise: Sound Walk
    **Tuesday 11/16**
 
    * Watch some of the stock footage compositions 
-   * Introduce [Final Project](pages/projects#final)
+   * Introduce [Final Project](pages/projects#final-project)
       * work with Prof. Konrad's 3d-Design - Pre-production students to compose music for their animated shorts. 
       * Watch the animations and choose one to work on. 
    * Ethan Hein on [scales and emotions](http://www.ethanhein.com/wp/2010/scales-and-emotions/)
@@ -424,7 +424,9 @@ In class exercise: Sound Walk
    * Review of the studio and the studio equipment
    * Using the Zoom portable recorders for field recording sound effects 
    * Begin work on Final Project
-      * Spot the scenes  
+      * watch the animation and mark down each point in time that will require a sound effect. Make a list of the sounds you will need. This will make it easier to work because you will have most of you need before you start the project.
+   
+      
 
    </td>
   </tr>
@@ -435,12 +437,13 @@ In class exercise: Sound Walk
    </td>
    <td>
    
+   ## Final Project - Sound Effects 
+
    **Tuesday 11/23**
 
    * More on sound effects 
-   * Changing the tempo for different musical cues 
    * In class work on Final Project
-   * Show significant progress on Final Project, at least one scene should be done by now 
+   * Show significant progress on Final Project
    
 
    **Thursday 11/25**
@@ -457,7 +460,20 @@ In class exercise: Sound Walk
    </td>
    <td>
 
-   Continue working in class on final project
+   ## Final Project - Music 
+
+   At this point the sound effects should all be added and you should start composing music for your cues. 
+
+   * Great score for inspiration: [American Beauty](https://www.youtube.com/watch?v=0LnurnNrTHY&list=PLEBC4B3752B189B1D&index=7)
+   * Spot the scenes
+     * watch the scenes and mark down the places where you will need to create sound effects 
+     * then determine where in the scene you will start and end the music 
+     * decide what type of musical cue each scene will have 
+     * Mark these in your DAW with markers  
+     * Some details on [cues](pages/lectures/week-15/cues)
+   * Basic versions of different cue types: action, aggressive action, suspense.
+   * Continue working in class on final project
+   * Changing the tempo for different musical cues 
 
    </td>
   </tr>
