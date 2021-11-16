@@ -37,7 +37,7 @@ Rubric
 
 ## Final Project
 
-Choose one of the animation shorts from Prof. Konrad's class and compose a score and sound effects for it. 
+Choose one of the animation shorts from Prof. Konrad's class and compose a score and sound effects for it. You can find them [here](https://drive.google.com/drive/folders/1DhBfZG8wfbmgtIspDBG7XRzaihRoCIcf). 
 
 ### Sound Effects
 
