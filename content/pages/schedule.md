@@ -423,7 +423,8 @@ In class exercise: Sound Walk
    * Introduction to sound effects 
       * Reaper sound effects  
       * [LKC Tools - Variator](pages/lectures/week-13/variator)
-      * Sound Particles  
+      * [Vital Synth](https://vital.audio/) - Free waveshaping synth 
+      * [Sound Particles](https://soundparticles.com/)  
    * Review of the studio and the studio equipment
    * Using the Zoom portable recorders for field recording sound effects 
    * Begin work on Final Project
