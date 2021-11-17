@@ -421,6 +421,9 @@ In class exercise: Sound Walk
    **Thursday 11/18**
 
    * Introduction to sound effects 
+      * Reaper sound effects  
+      * [LKC Tools - Variator](pages/lectures/week-13/variator)
+      * Sound Particles  
    * Review of the studio and the studio equipment
    * Using the Zoom portable recorders for field recording sound effects 
    * Begin work on Final Project
