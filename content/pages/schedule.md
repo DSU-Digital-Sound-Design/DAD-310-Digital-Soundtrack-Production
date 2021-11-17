@@ -422,16 +422,15 @@ In class exercise: Sound Walk
 
    * Introduction to sound effects 
       * Reaper sound effects  
-      * [LKC Tools - Variator](pages/lectures/week-13/variator)
+      * [LKC Tools - Variator](pages/lectures/week-13/variator) - great for finding unique combinations of sound effects recordings
       * [Vital Synth](https://vital.audio/) - Free waveshaping synth 
-      * [Sound Particles](https://soundparticles.com/)  
+      * [Sound Particles](https://soundparticles.com/) - Granular sampler - great for making crowds noise and battle scenes 
    * Review of the studio and the studio equipment
    * Using the Zoom portable recorders for field recording sound effects 
    * Begin work on Final Project
       * watch the animation and mark down each point in time that will require a sound effect. Make a list of the sounds you will need. This will make it easier to work because you will have most of you need before you start the project.
    
-      
-
+   
    </td>
   </tr>
   <tr>
@@ -445,7 +444,8 @@ In class exercise: Sound Walk
 
    **Tuesday 11/23**
 
-   * More on sound effects 
+   * Sound effects examples from movies
+   * some examples of making sfx from scratch
    * In class work on Final Project
    * Show significant progress on Final Project
    
