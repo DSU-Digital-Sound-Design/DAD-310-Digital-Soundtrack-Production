@@ -420,6 +420,8 @@ In class exercise: Sound Walk
 
    **Thursday 11/18**
 
+   **[EA - Internship Sound Designer](https://ea.gr8people.com/jobs/169587/internship-sound-designer)**
+
    * Introduction to sound effects 
       * Reaper sound effects  
       * [LKC Tools - Variator](pages/lectures/week-13/variator) - great for finding unique combinations of sound effects recordings
