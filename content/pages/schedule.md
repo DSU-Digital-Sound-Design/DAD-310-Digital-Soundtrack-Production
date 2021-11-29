@@ -446,8 +446,13 @@ In class exercise: Sound Walk
 
    **Tuesday 11/23**
 
+   * Plugins
+      * [Granulera](https://caiojmini.itch.io/granulera) - Granular synthesis    
    * Sound effects examples from movies
+      * [Star Wars](https://www.youtube.com/watch?v=So0nmciiFJg)
+      * [Animation Sound design](https://www.youtube.com/playlist?list=PLmI8oimq6-mb4oOS_Dw_yHkeQsgKH6w7m) 
    * some examples of making sfx from scratch
+      * Creature sounds  
    * In class work on Final Project
    * Show significant progress on Final Project
    
@@ -465,6 +470,11 @@ In class exercise: Sound Walk
    <td>11/30, 12/2
    </td>
    <td>
+
+   **Tuesday 11/30**
+
+   * [Spitfire Audio Labs](https://labs.spitfireaudio.com/) - Free high quality virtual instruments.
+   * [Explore and Combine Cinematic Sounds](https://www.ableton.com/en/classroom/support/creating-soundtrack/lesson-1/) - Find the cinematic drum rack here 
 
    ## Final Project - Music 
 
