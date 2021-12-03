@@ -476,6 +476,10 @@ In class exercise: Sound Walk
    * [Spitfire Audio Labs](https://labs.spitfireaudio.com/) - Free high quality virtual instruments.
    * [Explore and Combine Cinematic Sounds](https://www.ableton.com/en/classroom/support/creating-soundtrack/lesson-1/) - Find the cinematic drum rack here 
 
+   **Thursday 12/2**
+
+   
+
    ## Final Project - Music 
 
    At this point the sound effects should all be added and you should start composing music for your cues. 
@@ -504,11 +508,8 @@ In class exercise: Sound Walk
 
    * Last chance for any help with project 
 
-   **Thursday 12/9**
-
-   * Present Final Project during exam time 1:00pm - 3:00pm
-
    </td>
+   
   </tr>
 </table>
 
