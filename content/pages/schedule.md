@@ -507,6 +507,7 @@ In class exercise: Sound Walk
    **Tuesday 12/7**
 
    * Last chance for any help with project 
+   * **Please fill out the course evaluation** [here](https://sdbor.campuslabs.com/eval-home/direct/609513) 
 
    </td>
    
